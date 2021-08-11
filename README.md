@@ -1,7 +1,7 @@
 # External-Sorting-Algorithm
 Project Completion Date: November 2020
 
-**In this project we implement an External Sorting Algorithm that reads data from the Secondary storage device and sorts it with respect to a key value. The goal of this project is to learn to read data from the hard drive and implement a heap sort with limited memory, and mergesort.** _Refer Project\_Specification.pdf for details_
+**In this project we implement an External Sorting Algorithm that reads data from the Secondary storage device and sorts it with respect to a key value. The goal of this project is to learn to read data from the hard drive, implement a heap sort with limited memory, and mergesort.** _Refer Project\_Specification.pdf for details_
 
 Project done as a requirement for Virginia Tech Course CS5040: Intermediate Data Structures & Algorithms.
 
